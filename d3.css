@@ -1,0 +1,23 @@
+div ~ p {
+   color:red;
+}
+ P
+ {
+    color: blue;
+ }
+ #pen  p {
+    color: black;
+}
+ #bello >  p
+  {
+     color: maroon;
+    }
+#ten + p{
+ color: blue;
+}
+ #pem > p
+ {
+   color: aqua;
+}
+
+
